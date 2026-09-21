@@ -1,4 +1,4 @@
 # Surrogate Functionals
-Source code for the paper "Machine-Learned Surrogate Functionals Yield Transferable, Density-Aware Interatomic Potentials"
+Source code for the paper "Orbital-Free Surrogate Functionals Yield Transferable Interatomic Potentials and Electron Densities"
 
 The code will be available soon.
